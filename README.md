@@ -3,7 +3,7 @@
 Project Summary: Fake News Detection using Natural Language Processing (NLP) and Machine Learning
 
 Introduction:
-The project focuses on the development and evaluation of machine learning models to detect fake news using Natural Language Processing (NLP) techniques. The goal is to build models that can effectively differentiate between real and fake news articles based on their textual content. The code utilizes popular Python libraries like pandas, seaborn, scikit-learn, and pickle for data handling, visualization, and model implementation.
+This project focuses on the development and evaluation of machine learning models to detect fake news using Natural Language Processing (NLP) techniques. The goal is to build models that can effectively differentiate between real and fake news articles based on their textual content. The code utilizes popular Python libraries like pandas, seaborn, scikit-learn, and pickle for data handling, visualization, and model implementation.
 
 Data Import and Preprocessing:
 The project begins by importing the required libraries and loading the dataset "fake_or_real_news.csv." The dataset contains labeled news articles categorized as either 'real' or 'fake.' After loading the data, its integrity is checked to ensure there are no missing values.
