@@ -1,4 +1,4 @@
-# Fake News Detection using Natural Language Processing (NLP) and Machine Learning
+# Fake News Detection using NLP and Machine Learning Python Code
 
 Project Summary: Fake News Detection using Natural Language Processing (NLP) and Machine Learning
 
