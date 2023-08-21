@@ -1,4 +1,4 @@
-# Fake News Detection Python Code
+# News Authenticator Python Code
 
 Project Summary: Fake News Detection using Natural Language Processing (NLP) and Machine Learning
 
